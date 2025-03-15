@@ -1,0 +1,5 @@
+transaction_id,amount,type,timestamp,sender_id,receiver_id
+1,100.0,transfer,2023-10-01 12:00:00,user1,user2
+2,5000.0,purchase,2023-10-01 12:05:00,user2,user3
+3,15000.0,transfer,2023-10-01 12:10:00,user1,user4
+4,200.0,purchase,2023-10-01 12:15:00,user3,user1a
